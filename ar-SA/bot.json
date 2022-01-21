@@ -1,0 +1,10 @@
+{
+    "not_user_banner": ":x: هذا المستخدم ليس لديه بنر",
+    "user_banner_url": "رابط البنر",
+    "user_created_at": "انشاء اليوزر:",
+    "user_joined_server": "دخول العضو للسيرفر",
+    "user_id": "ايدي المستخدم:",
+    "is_user_bot": "هل هذا المستخدم بوت؟",
+    "joke_description": "احصل على نكته عشوائية",
+    "meme_description": "احصل على ميم عشوائي"
+}

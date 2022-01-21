@@ -34,7 +34,7 @@
     "channel_info_options_1": "Select channel you need info about",
     "channel_info_slow_mode": "Slow Mode:",
     "channel_info_category": "Category Name:",
-    "channel_info_lastpinmessage": "Last Ping Message At:",
+    "channel_info_lastpinmessage": "Last Pin Message At:",
     "channel_info_nsfw": "Channel NSFW?",
     "channel_info_text": "Text Channel",
     "channel_info_voice": "Voice Channel",

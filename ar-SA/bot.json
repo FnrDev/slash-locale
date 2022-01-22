@@ -135,6 +135,5 @@
     "user_no_nickname": "لا يوجد",
     "user_bot": "هل المستخدم بوت؟",
     "user_timeout": "الوقت المتبقي للتايم اوت:",
-    "user_button": "صورة المستخدم",
-    "channel_info_members": "**{0}** عضو:**\n\n{1}"
+    "user_button": "صورة المستخدم"
 }

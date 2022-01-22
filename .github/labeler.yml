@@ -1,0 +1,14 @@
+chore:
+  - 'README.md'
+  - 'package.json'
+
+ci:
+  - '.github/*'
+  - '.github/workflows/*'
+
+Arabic:
+  - 'ar-SA/*'
+
+English:
+  - 'en-US/*'
+  - 'en/*'

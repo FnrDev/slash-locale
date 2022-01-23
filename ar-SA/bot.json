@@ -314,8 +314,8 @@
     "role_update_description": "😛** تم تعديل رتبة `{0}`.**",
     "role_update_color_old": "لون القديم:",
     "role_update_color_new": "لون الجديد:",
-    "thread_create_description": "**{0} has created {1} thread.**",
-    "thread_delete_description": "**{0} has deleted {1} thread.**",
-    "voice_state_move_description": "**{0} moved from `{1}` to `{2}`**",
-    "voice_state_join_description": "**🔊 {0} has joined `{1}` channel.**"
+    "thread_create_description": "**{0} قام بانشاء ثريد جديد {1}.**",
+    "thread_delete_description": "**{0} قام بحذف ثريد {1}.**",
+    "voice_state_move_description": "**{0} انتقل من `{1}` الى `{2}`**",
+    "voice_state_join_description": "**🔊 {0} قام بدخول روم `{1}`.**"
 }

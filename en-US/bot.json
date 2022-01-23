@@ -193,7 +193,7 @@
     "role_options_type": "Pick a type",
     "role_higher": "I can't role this member because that member has role position is higher than my role or same as you!",
     "role_user_reply": "✅ Changed role for {0}, **{1}{2}**",
-    "role_bots_add_reply": "✅ Changed for for **{0}** bots, **+{1}**",
+    "role_bots_add_reply": "✅ Changed role for **{0}** bots, **+{1}**",
     "role_all_add_reply": "✅ Changed role for {0} members, **+{1}**",
     "role_all_remove_reply": "✅ Changed role for **{0}** members, **-{1}**",
     "setcolor_description": "Changes role colors by hex codes.",

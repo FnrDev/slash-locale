@@ -318,7 +318,7 @@
     "thread_delete_description": "**{0} قام بحذف ثريد {1}.**",
     "voice_state_move_description": "**{0} انتقل من `{1}` الى `{2}`**",
     "voice_state_join_description": "**🔊 {0} قام بدخول روم `{1}`.**",
-    "member_join_description": "**{0} joined the server.**",
-    "member_age": "⏰ Age of account:",
-    "member_left_description": "**{0} left the server.**"
+    "member_join_description": "**{0} دخل الى سيرفر.**",
+    "member_age": "⏰ عمر الحساب:",
+    "member_left_description": "**{0} خرج من السيرفر.**"
 }

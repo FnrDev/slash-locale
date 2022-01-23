@@ -317,5 +317,8 @@
     "thread_create_description": "**{0} has created {1} thread.**",
     "thread_delete_description": "**{0} has deleted {1} thread.**",
     "voice_state_move_description": "**{0} moved from `{1}` to `{2}`**",
-    "voice_state_join_description": "**🔊 {0} has joined `{1}` channel.**"
+    "voice_state_join_description": "**🔊 {0} has joined `{1}` channel.**",
+    "member_join_description": "**{0} joined the server.**",
+    "member_age": "⏰ Age of account:",
+    "member_left_description": "**{0} left the server.**"
 }

@@ -1,3 +1,4 @@
+pull_request_title: 'chore(strings): new translations'
 files:
   - source: /en-US/*
     translation: /%locale%/%original_file_name%
